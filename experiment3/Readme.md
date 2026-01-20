@@ -43,7 +43,7 @@ Student std1 = new Student("Hari", 40, 67.8);
 	}
 }
 ```
-![screenshot](exp_3a_output.PNG)
+![screenshot](exp_3a_output.JPEG)
 # TITLE: 3b.)  Implementing Binary Search Algorithm
 ```
 import java.util.Scanner;
