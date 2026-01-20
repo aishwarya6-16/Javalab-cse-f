@@ -34,6 +34,7 @@ Main.java
 	}
 }
 ```
+# output
 ![screenshot](exp_3a_output.png)
 # TITLE: 3b.)  Implementing Binary Search Algorithm
 ```
@@ -105,11 +106,10 @@ class BinarySearch {
 
 Main.java
 
-
+```
 import java.util.Scanner;
 class Main {
-
-	public static void main(String args[]) {
+      public static void main(String args[]) {
 
 		
 		BinarySearch bs = new BinarySearch(10);
@@ -127,6 +127,7 @@ class Main {
 	}
 
 }
+```
 # output
 ![screenshot](exp_3b_output.PNG)
 # TITLE: 3c.) Sorting Element using Bubble Sort
@@ -157,6 +158,7 @@ class Main {
 }
 ```
 Main.java
+```
 import java.util.Scanner;
  class Main {
 	
@@ -188,5 +190,6 @@ import java.util.Scanner;
     }
 
 }
+```
 # output
 ![screenshot](exp_3c_output.PNG)
