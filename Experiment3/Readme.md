@@ -17,10 +17,9 @@
 		System.out.println("marks: "+marks);
 	}
 }
-
+```
 Main.java
-
-
+````
  class Main {
 
 	public static void main(String args[]) {
