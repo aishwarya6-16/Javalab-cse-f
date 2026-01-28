@@ -30,6 +30,5 @@ class Perfect {
 ```
 # output
 ![screenshot](exp_additional-4.png)
-            System.out.println("num is not a perfect number");
         }
     }
