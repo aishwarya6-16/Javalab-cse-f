@@ -1,5 +1,5 @@
-# Additional-3
-# TITLE: Additional-3. ) Java program to check if a number is a perfect number
+# Additional3
+# TITLE: Additional-3. ) Java program to determine if a given string is palindrome or not
 ```
 import java.util.Scanner;
 
@@ -36,5 +36,3 @@ class Palindrome {
 ```
 # output
 ![screenshot](exp_additional-3.png)
-        }
-    }
