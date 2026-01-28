@@ -1,4 +1,4 @@
-# Additional3
+# Additional-3
 # TITLE: Additional-3. ) Java program to determine if a given string is palindrome or not
 ```
 import java.util.Scanner;
