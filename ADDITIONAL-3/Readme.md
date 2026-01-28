@@ -3,32 +3,38 @@
 ```
 import java.util.Scanner;
 
-class Perfect {
+class Palindrome {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter the positive number: ");
-        int num = sc.nextInt();
+        System.out.print("Enter the string: ");
+        String str = sc.nextLine();
 
-        int sum = 0;
+        int start = 0;
+        int end = str.length() - 1;
+        boolean flag = true;
 
-        for (int i = 1; i < num; i++) {
+        while (start < end) {
 
-            if (num % i == 0) {
-                sum = sum + i;
+            if (str.charAt(start) != str.charAt(end)) {
+                flag = false;
+                break;
             }
+
+            start++;
+            end--;
         }
 
-        if (sum == num) {
-            System.out.println("num is a perfect number");
+        if (flag) {
+            System.out.println("String is a palindrome");
+
         }
-        else {
-}
+    }
 }
 ```
 # output
-![screenshot](exp_additional-4.png)
+![screenshot](exp_additional-3.png)
         }
     }
