@@ -54,7 +54,7 @@ public class TestEmployee {
 }
 ```
 # output
-![screenshot](exp_4a_output.jpeg)
+![screenshot](exp_4a_Output.jpeg)
 # TITLE: 4b.)  Write a JAVA program to implement multi-level Inheritance
 ```
 class Bicycle {
@@ -94,7 +94,7 @@ public class TestVehicle {
 }
 ```
 # output
-![screenshot](exp_4b_output.jpeg)
+![screenshot](exp_4b_Output.jpeg)
 # TITLE: 4c) Construct abstract class in JAVA to find areas of different shapes
 ```
 abstract class Figure {
@@ -143,4 +143,4 @@ public class TestFigure {
 }
 ```
 # output
-![screenshot](exp_4c_output.jpeg)
+![screenshot](exp_4c_Output.jpeg)
