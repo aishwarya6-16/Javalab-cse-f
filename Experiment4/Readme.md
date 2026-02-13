@@ -54,7 +54,7 @@ public class TestEmployee {
 }
 ```
 # output
-![screenshot](exp_4a_Output.jpeg)
+![screenshot](Experiment4/exp_4a_0utput.jpeg)
 # TITLE: 4b.)  Write a JAVA program to implement multi-level Inheritance
 ```
 class Bicycle {
