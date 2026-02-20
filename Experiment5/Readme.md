@@ -58,7 +58,9 @@ public class TestSort {
 }
 ```
 OUTPUT :
-![output of interface](exp5a.png)
+
+<img width="385" height="88" alt="exp_5a_0utput" src="https://github.com/user-attachments/assets/6a3b2c12-fda2-4fcd-ac18-1aa6eea5b17c" />
+
 
 ## TITLE: 5b.) Java program to implement Runtime Polymorphism
 ```java// Parent Class
@@ -91,7 +93,9 @@ public class TestVehicle {
 ```
 
 OUTPUT :
-![output of runtime polymorphism](exp5b.png)
+
+<img width="382" height="80" alt="exp_5b_0utput" src="https://github.com/user-attachments/assets/87ea2fc2-fd25-498d-b922-bda368aba971" />
+
 
 ## TITLE : 5c.) Java program using StringBuffer to delete a character
 ```java
@@ -108,4 +112,6 @@ public class DeleteChars {
 ```
 
 OUTPUT :
-![output of stringbuffer](exp5c.png)
+
+<img width="468" height="79" alt="exp_5c_0utput" src="https://github.com/user-attachments/assets/25ad9012-4bed-4206-9072-1f51ae54f060" />
+
