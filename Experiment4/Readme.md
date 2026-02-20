@@ -37,6 +37,7 @@ public class TestEmployee {
  }
 }
 ```
+## output
 ![output of single inheritance](exp4a.png)
 
 ## TITLE :4b.)Implement Multi-level Inheritance
@@ -74,6 +75,7 @@ public class TestVehicle {
     }
 }
 ```
+## output
 ![output of multi-level inheritance](exp4b.png)
 
 ## TITLE :4c.)Construct the abstract class
@@ -111,4 +113,5 @@ public class TestFigure {
     }
 }
 ```
+## output
 ![output of abstract class](exp4c.png)
