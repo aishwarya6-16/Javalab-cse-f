@@ -1,6 +1,7 @@
 # EXPERIMENT-5
 ## TITLE : 5a.) Java program to implement Interface 
 ```java
+
 interface Sortable {
     void sort(int arr[]);
 }
@@ -56,10 +57,11 @@ public class TestSort {
         display(b);
     }
 }
-```
-OUTPUT :
 
-<img width="385" height="88" alt="exp_5a_0utput" src="https://github.com/user-attachments/assets/6a3b2c12-fda2-4fcd-ac18-1aa6eea5b17c" />
+```
+## OUTPUT :
+
+<img width="385" height="88" alt="exp_5a_0utput" src="https://github.com/user-attachments/assets/6a3b2c12-fda2-4fcd-ac18-1aa6eea5b17c"/>
 
 
 ## TITLE: 5b.) Java program to implement Runtime Polymorphism
@@ -92,7 +94,7 @@ public class TestVehicle {
 }
 ```
 
-OUTPUT :
+## OUTPUT :
 
 <img width="382" height="80" alt="exp_5b_0utput" src="https://github.com/user-attachments/assets/87ea2fc2-fd25-498d-b922-bda368aba971" />
 
@@ -111,7 +113,7 @@ public class DeleteChars {
 }
 ```
 
-OUTPUT :
+## OUTPUT :
 
 <img width="468" height="79" alt="exp_5c_0utput" src="https://github.com/user-attachments/assets/25ad9012-4bed-4206-9072-1f51ae54f060" />
 
