@@ -119,7 +119,6 @@ public class Solution {
         catch (NumberFormatException e) {
             System.out.println("NumberFormatException: Invalid numeric format.");
         }
-
         catch (Exception e) {  
             System.out.println("Some other exception occurred.");
         }
