@@ -221,4 +221,5 @@ public class ThreadDemo {
 ```
 
 ## OUTPUT:
-<img width="606" height="262" alt="exp_7c_0utput" src="https://github.com/user-attachments/assets/7736b58e-3f8e-4922-9b11-48a00cfaf97d" />
+<img width="607" height="254" alt="exp_7c_0utput" src="https://github.com/user-attachments/assets/d05878fc-e0b3-487a-a538-b73a6194a018" />
+
